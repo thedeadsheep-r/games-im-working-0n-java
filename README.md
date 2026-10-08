@@ -1,14 +1,14 @@
 # Games I'm Working On (Java)
 
-This repository contains my Java game development projects. Currently, it includes **Delicious In Dungeon** (in the `DungeonRun` folder).
+This repository contains my Java game development projects. Currently, it includes **Delicious In Dungeon** (in the `DungeonRun` folder). The assets aren't mine they are just placeholder and this is a project for study any problem related to that email me and i'll just remove them.
 
 ---
 
-## 🎮 DungeonRun (Delicious In Dungeon)
+## DungeonRun (Delicious In Dungeon)
 
 A 2D Java-based game built using standard Java libraries (Swing/AWT). It's a custom, human-made game inspired by classic GBA games.
 
-### 🛠️ How to run the game
+### How to run the game
 
 #### Method 1: Using Eclipse IDE (Recommended)
 1. Open **Eclipse**.
@@ -39,7 +39,7 @@ If you have the Java Development Kit (JDK) installed, you can compile and run th
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `DungeonRun/`: Contains the main game project.
   - `src/`: Java source code (entities, main engine, objects, tiles).
